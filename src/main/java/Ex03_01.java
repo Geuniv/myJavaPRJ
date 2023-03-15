@@ -8,12 +8,6 @@ public class Ex03_01 {
         System.out.printf("%d", 100 + 100); // 숫자를 계산해서 결과를 출력한다.
         System.out.printf("\n"); // System.out.printf()는 행이 넘어가지 않으므로 강제로 \n으로 행이 넘어가게한다.
 
-        System.out.printf("%d", 100, 200); // %d는 1개, 숫자는 2개라서 출력할 결과물이 안맞기 때문에 에러가 난다.
-        System.out.printf("\n");
-
-        System.out.printf("%d", "%d", 100);
-        System.out.printf("\n");
-
     }
 }
 

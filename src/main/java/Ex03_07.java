@@ -8,7 +8,7 @@ public class Ex03_07 {
         float b = 200;         // 실수형 변수 ( b )에 정수를 선언했다. -> 바람직하지 않다.
                                // 실수의 범위 내에 정수는 뒤에 .000000을 붙혀서 출력이 가능함.
 
-        System.out.printf("a의 값 ==> %d \n", a);
-        System.out.printf("b의 값 ==> %f \n", b);
+        System.out.printf("a의 값 ==> %d \n", a); // a의 값을 출력하고 줄을 바꿔달라는 명령어
+        System.out.printf("b의 값 ==> %f \n", b); // b의 값을 출력하고 줄을 바꿔달라는 명령어
     }
 }
