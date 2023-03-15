@@ -13,6 +13,9 @@ public class Hello {
         System.out.println("안녕하세요");
         System.out.println("5142");
         System.out.println("반갑습네다");
+
+        System.out.println("Edit Java Code !!");
+        System.out.println("수정파일 테스트용.");
         
     }
 }
