@@ -1,3 +1,5 @@
+package Ex03;
+
 public class Ex03_01 {
     // 메인함수가 있어야만 실행 ( Run ) 이 뜸.
     public static void main(String[] args){
