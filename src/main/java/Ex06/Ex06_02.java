@@ -21,6 +21,7 @@ public class Ex06_02 {
 
         int i;
 
+        // for 문을 사용해서 다섯 번 반복한다.
         for ( i = 0; i < 5; i++)
         {
             System.out.printf("안녕하세요? 빙글빙글 for 문을 공부중입니다 ^^ \n");
