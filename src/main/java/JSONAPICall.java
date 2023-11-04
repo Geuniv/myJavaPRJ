@@ -32,6 +32,7 @@ public class JSONAPICall {
         // 응답을 출력합니다.
         System.out.println(response.toString());
 
+        // 왜 안되지
     }
 
 }
